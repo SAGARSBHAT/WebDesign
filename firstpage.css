@@ -1,0 +1,124 @@
+.imgcontainer{
+    background-image: url('food-wallpaper.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-style: solid;
+    border-color: white;
+    background-color: white;
+    margin-right: 0px;
+
+}
+
+body{
+    margin: auto;
+  overflow-y: scroll;
+  overflow-x: hidden;
+}
+.logo{
+    text-align: center;
+    font-size: 100px;
+    font-weight: bolder;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: orange;
+    background: white;
+    border-radius: 50%;
+    height: 140px;
+    width: 140px;
+    margin-left: 100px;
+    align-self: center;
+    margin-top: 100px;
+
+}
+.comment
+{
+    font-size: 50px;
+    font-weight: bolder;
+    color: antiquewhite;
+    margin-top: 50px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+.scroll{
+    font-size: xx-large;
+  
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-right: 10px;
+
+}
+#locdrop{
+    font-size: x-large;
+    height: 50px;
+    width: 300px;
+    
+   
+}
+#locsearch{
+    font-size:medium;
+    height: 50px;
+    width: 400px;
+}
+.searchlogo{
+    font-size: 50px;
+    font-weight: bolder;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: left;
+    margin-top: 30px;
+    margin-bottom:20px;
+    margin-left: 30px;
+    color: darkslateblue;
+}
+.con{
+    font-size: 25px;
+    font-weight: bolder;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 10px;
+    color: gray;
+}
+
+.tile{
+    font-size: larger;
+    font-weight: bolder;
+    height: 160;
+    width: 360;
+     margin-top: 30px;
+    margin-right: 10px;
+   box-shadow: 0 3px 6px black;
+   float: left;
+}
+
+.tile1
+{
+    width: 50%;
+    float: left;
+}
+.tile2
+{
+    width: 50%;
+    float: left;
+}
+
+
+
+
+.maintext{
+    
+    text-align: left;
+    margin-top: 25px;
+ 
+    font-size: 18px;
+    font-weight: 600;
+    color:darkslateblue;
+    margin-bottom: 5px;
+}
+.sidetext
+{
+    font-size: 14px;
+    margin-top: 5px;
+     margin-top: 4px; 
+    font-weight: normal;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: gray;
+}
